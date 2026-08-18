@@ -2,8 +2,6 @@
 
 Set any video file as your live desktop wallpaper on GNOME/Ubuntu.
 
-![Live Wallpaper Engine](icon.png)
-
 ## Features
 
 - Play MP4, MKV, WebM, AVI and other video formats as your desktop wallpaper
