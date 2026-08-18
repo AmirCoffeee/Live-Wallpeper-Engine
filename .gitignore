@@ -1,0 +1,32 @@
+# Build output
+build/
+buildDir/
+
+# Generated .deb package
+*.deb
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# meson internals
+meson-info/
+meson-logs/
+meson-private/
+
+# Compiled objects
+*.o
+*.a
+*.so
+
+# User cache / thumbnails generated at runtime
+~/.cache/live-wallpaper/
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.sh
+live-wallpaper.desktop
+debian
