@@ -27,6 +27,5 @@ meson-private/
 .DS_Store
 Thumbs.db
 
-*.sh
 live-wallpaper.desktop
 debian
